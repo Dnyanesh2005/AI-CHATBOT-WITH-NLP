@@ -25,15 +25,7 @@ This task was completed using **Python** and **NLTK** in Google Colab, giving me
 
 *output*
 
->hii
-Hello!
->what is your name
-I'm your internship chatbot.
->how are you
-I'm doing great, thanks for asking!
->what is python
-Python is a powerful programming language used for web development, data analysis, AI, and more.
->bye
-See you later!
+![Image](https://github.com/user-attachments/assets/ad86eb22-5cc6-4077-8a65-82431f587153)
+
 
 
